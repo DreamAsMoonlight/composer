@@ -1,0 +1,14 @@
+{
+    "name": "dreamasmoonlight/composer",
+    "description": "This is a test project",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "DreamAsMoonlight",
+            "email": "51354764+DreamAsMoonlight@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
